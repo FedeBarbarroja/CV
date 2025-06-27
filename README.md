@@ -1,7 +1,7 @@
 
 <h1>Federico Barbarroja</h1>
 
--📧 federicobarbarroja05@gmail.com | 📱 +54 9 341 315 9680
+-📧 federicobarbarroja05@gmail.com 
 
 -📍 Rosario, Argentina
 
