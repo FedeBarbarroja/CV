@@ -23,16 +23,17 @@ habilidades para la resolución de problemas y gran capacidad de adaptación.
 Data Analyst - Laboratorios Turner
 
 June 2024 – Presente | Rosario, Argentina
-<li><b>Análisis de datos de costos</b>, proveedores y stock utilizando <b>Python y Pandas</b>
-para generar informes y tomar decisiones estratégicas</li>
+<li><b>Desarrollo e implementación</b> de cero de un sistema de automatización
+para el proceso de compras, que calcula necesidades y genera archivos por
+proveedor, mejorando la eficiencia del área.</li>
 <li><b>Generación de informes</b> de hallazgos clave a los directivos, contribuyendo a la
 mejora de procesos de compra</li>
 <li><b>Gestión de bases de datos</b> (SQL) para consultar niveles de stock y evaluar
 proveedores.</li>
 <li>Colaboración con diferentes áreas en la integración y <b>limpieza de datos</b> para apoyar la
 toma de decisiones.</li>
-<li><b>Evaluación de costos y proveedores</b> mediante análisis cuantitativo para
-optimizar gastos.</li>
+<li><b>Análisis de datos de costos</b>, proveedores y stock utilizando Python y Pandas
+para generar reportes que apoyan la toma de decisiones estratégicas.</li>
 
 <hr>
 
