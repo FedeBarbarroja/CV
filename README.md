@@ -12,28 +12,18 @@
 
 <h1>Resumen Profesional💡</h1>
 
-Estudiante de Inteligencia Artificial en la Universidad Nacional de Rosario con experiencia
-en análisis de datos utilizando Python, Pandas y SQL. Actualmente trabajando como Data
-Analyst en el área de compras, aplicando el pensamiento analítico para apoyar la toma de
-decisiones estratégicas. Apasionado por la tecnología y el aprendizaje continuo, con sólidas
-habilidades para la resolución de problemas y gran capacidad de adaptación.
+Estudiante de Inteligencia Artificial en la Universidad Nacional de Rosario con experiencia en análisis de datos utilizando Python, Pandas y SQL. Actualmente trabajando como Data Analyst en el área de compras, aplicando el pensamiento analítico para apoyar la toma de decisiones estratégicas. Apasionado por la tecnología y el aprendizaje continuo, con sólidas habilidades para la resolución de problemas y gran capacidad de adaptación.
 <hr>
 
 <h1>Experiencia📈</h1>
 Data Analyst - Laboratorios Turner
 
 June 2024 – Presente | Rosario, Argentina
-<li><b>Desarrollo e implementación</b> de cero de un sistema de automatización
-para el proceso de compras, que calcula necesidades y genera archivos por
-proveedor, mejorando la eficiencia del área.</li>
-<li><b>Generación de informes</b> de hallazgos clave a los directivos, contribuyendo a la
-mejora de procesos de compra</li>
-<li><b>Gestión de bases de datos</b> (SQL) para consultar niveles de stock y evaluar
-proveedores.</li>
-<li>Colaboración con diferentes áreas en la integración y <b>limpieza de datos</b> para apoyar la
-toma de decisiones.</li>
-<li><b>Análisis de datos de costos</b>, proveedores y stock utilizando Python y Pandas
-para generar reportes que apoyan la toma de decisiones estratégicas.</li>
+<li>Desarrollo de un chatbot basado en <b>NLP y RAG</b>, diseñado para responder consultas internas y de clientes.</li>
+<li>Implementación de pipelines automatizados en Python para la limpieza, comparación y consolidación de datos.</li>
+<li>Análisis y visualización de datos de costos, proveedores y stock con Pandas y Power BI, generando reportes para la dirección.</li>
+<li>Gestión y consulta de bases de datos (SQL) para evaluar niveles de stock, consumo y desempeño de proveedores.</li>
+<li>Colaboración con distintas áreas para integrar y depurar datos provenientes de múltiples fuentes.</li>
 
 <hr>
 
