@@ -1,5 +1,6 @@
 # FEDERICO BARBARROJA
 Rosario, Argentina | +54 9 341 315 9680 | federicobarbarroja05@gmail.com
+
 [linkedin.com/in/fedebarbarroja](https://linkedin.com/in/fedebarbarroja) | [github.com/FedeBarbarroja](https://github.com/FedeBarbarroja)
 
 ## PERFIL PROFESIONAL
