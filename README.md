@@ -1,62 +1,39 @@
+# FEDERICO BARBARROJA
+Rosario, Argentina | +54 9 341 315 9680 | federicobarbarroja05@gmail.com
+[linkedin.com/in/fedebarbarroja](https://linkedin.com/in/fedebarbarroja) | [github.com/FedeBarbarroja](https://github.com/FedeBarbarroja)
 
-<h1>Federico Barbarroja</h1>
+## PERFIL PROFESIONAL
+**Software Engineer & Data Scientist**
 
--📧 federicobarbarroja05@gmail.com 
+Estudiante avanzado de Inteligencia Artificial y Software Engineer con experiencia en Ingeniería de Datos. Especializado en el desarrollo de soluciones utilizando Python, SQL y servicios Cloud, con un fuerte enfoque en Data Analytics.
 
--📍 Rosario, Argentina
+## EDUCACIÓN
+**Universidad Nacional de Rosario (UNR)** | Rosario, Argentina
+*Tecnicatura en Inteligencia Artificial | En curso - Avanzado*
 
--💻 GitHub: <a href="https://github.com/FedeBarbarroja">FedeBarbarroja<a> | 🔗 LinkedIn: <a href="https://www.linkedin.com/in/fedebarbarroja/">fedebarbarroja<a>
-<Br>
+## EXPERIENCIA PROFESIONAL
 
-<hr>
+**Trainee Software Engineer | Renaiss**
+*Rosario, Argentina (Híbrido) | Diciembre 2025 - Actualidad*
+* Desarrollo de arquitecturas de software modernas, enfocándose en la implementación de buenas prácticas de código y escalabilidad.
+* Diseño y construcción de APIs RESTful integradas con servicios Cloud, asegurando la comunicación eficiente entre microservicios.
+* Implementación de flujos de trabajo CI/CD para automatizar el despliegue y testeo de aplicaciones, reduciendo tiempos de integración.
+* Aplicación de metodologías de Modernización de Aplicaciones y Backend Development en entornos colaborativos ágiles.
 
-<h1>Resumen Profesional💡</h1>
+**Analista Funcional / Data Analyst | Laboratorios Turner**
+*Rosario, Argentina | Julio 2025 - Actualidad*
+* Desarrollo e implementación de un chatbot corporativo basado en NLP y arquitectura RAG (Retrieval-Augmented Generation) para automatizar respuestas a consultas internas y de clientes.
+* Diseño de pipelines automatizados en Python para la extracción, limpieza (ETL) y consolidación de datos críticos de negocio.
+* Optimización de la gestión de stock y proveedores mediante consultas en SQL Server, mejorando la precisión en la toma de decisiones de compra.
 
-Estudiante de Inteligencia Artificial en la Universidad Nacional de Rosario con experiencia en análisis de datos utilizando Python, Pandas y SQL. Actualmente trabajando como Data Analyst en el área de compras, aplicando el pensamiento analítico para apoyar la toma de decisiones estratégicas. Apasionado por la tecnología y el aprendizaje continuo, con sólidas habilidades para la resolución de problemas y gran capacidad de adaptación.
-<hr>
+**Analista de Compras | Laboratorios Turner**
+*Rosario, Argentina | Junio 2024 - Julio 2025*
+* Análisis de costos y evaluación de desempeño de proveedores, identificando oportunidades de ahorro mediante análisis de datos históricos.
+* Gestión del abastecimiento, asegurando la disponibilidad de insumos para la operación.
 
-<h1>Experiencia📈</h1>
-Data Analyst - Laboratorios Turner
-
-June 2024 – Presente | Rosario, Argentina
-<li>Desarrollo de un chatbot basado en <b>NLP y RAG</b>, diseñado para responder consultas internas y de clientes.</li>
-<li>Implementación de pipelines automatizados en Python para la limpieza, comparación y consolidación de datos.</li>
-<li>Análisis y visualización de datos de costos, proveedores y stock con Pandas y Power BI, generando reportes para la dirección.</li>
-<li>Gestión y consulta de bases de datos (SQL) para evaluar niveles de stock, consumo y desempeño de proveedores.</li>
-<li>Colaboración con distintas áreas para integrar y depurar datos provenientes de múltiples fuentes.</li>
-
-<hr>
-
-<h1>Habilidades técnicas🧠</h1>
-<li><b>Lenguajes:</b> Python, R, SQL, Bash</li>
-<li><b>Herramientas y tecnologías:</b> Pandas, Power BI, Git, SQL Server, MySQL,
-Paquete Office</li>
-<li><b>Conceptos:</b> Análisis de datos, programación orientada a objetos (POO), desarrollo
-de algoritmos, gestión de bases de datos, Datawarehouse</li>
-
-<hr>
-
-<h1>Educación🏫</h1>
-
-<b>Universidad Nacional de Rosario (UNR)</b>
-
-Tecnicatura en Inteligencia Artificial - Estudiante avanzado
-
-Rosario, Argentina
-
-<hr>
-
-<h1>Idiomas💬</h1>
-
-<li>Español - Nativo</li>
-<li>Inglés - B1</li>
-
-<hr>
-
-<h1>Otros datos de interés🌱</h1>
-
-<li>Interés en el aprendizaje continuo y desarrollo profesional en IT.</li>
-<li>Capacidad de trabajo en equipo y autonomía.</li>
-<li>Disponibilidad para trabajar de forma remota o presencial.</li>
-
-<hr>
+## HABILIDADES TÉCNICAS
+* **Lenguajes de Programación:** Python (Avanzado), SQL, R, Bash.
+* **Data & AI:** Pandas, NumPy, Scikit-learn, NLP, RAG, DataWarehousing.
+* **Desarrollo & Cloud:** Git, CI/CD, APIs REST, Docker (básico), Cloud Services.
+* **Herramientas:** Power BI, SQL Server, MySQL, n8n (Automatización), Streamlit.
+* **Idiomas:** Español (Nativo), Inglés (Avanzado Certificado EF SET).
